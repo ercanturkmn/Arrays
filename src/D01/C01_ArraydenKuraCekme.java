@@ -11,5 +11,6 @@ public class C01_ArraydenKuraCekme {
         int dersAnlatacakKisi= rnd.nextInt(ogrenciler.length);//burada dizi içerisindeki ders anlatacak kişi indeksi belirlenir
         String sanslıKisi=ogrenciler[dersAnlatacakKisi];//bu indexteki isim sanslıKisi ye atanır
         System.out.println(sanslıKisi);//ve yazdırılır
+
     }
 }
